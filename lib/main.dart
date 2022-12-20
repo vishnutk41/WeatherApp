@@ -1,8 +1,7 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
-import 'package:weatherapp/view/home_page.dart';
 import 'package:weatherapp/view/splash_screen.dart';
+
 
 
 void main() {

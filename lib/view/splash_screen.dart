@@ -19,7 +19,7 @@ animationDuration: const Duration(seconds: 3),
         color: Colors.white
       ),)),
       backgroundColor: Colors.purple,
-      nextScreen:const HomePage(),
+      nextScreen: HomePage(),
       
       splashIconSize: 360,
       splashTransition: SplashTransition.fadeTransition,
